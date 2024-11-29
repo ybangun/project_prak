@@ -1,0 +1,35 @@
+com.example.project_prak_pam.app-browser-1.8.0-0 C:\Users\LENOVO\.gradle\caches\transforms-3\1b737faf546335993e42c1e83bb1025b\transformed\browser-1.8.0\res
+com.example.project_prak_pam.app-jetified-core-ktx-1.13.1-1 C:\Users\LENOVO\.gradle\caches\transforms-3\1c93b60f282a624c2d62460a782f6c2b\transformed\jetified-core-ktx-1.13.1\res
+com.example.project_prak_pam.app-jetified-lifecycle-process-2.7.0-2 C:\Users\LENOVO\.gradle\caches\transforms-3\3857a74dbd6d0c02ae53b09af7aae154\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.project_prak_pam.app-jetified-annotation-experimental-1.4.0-3 C:\Users\LENOVO\.gradle\caches\transforms-3\5ef6bf4e24e082fd8522f5b500b93f51\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.project_prak_pam.app-jetified-datastore-1.0.0-4 C:\Users\LENOVO\.gradle\caches\transforms-3\6718a6c40c809544a7b5847e0985f728\transformed\jetified-datastore-1.0.0\res
+com.example.project_prak_pam.app-jetified-tracing-1.2.0-5 C:\Users\LENOVO\.gradle\caches\transforms-3\6c24c4ff43b8136391c1c6848205d37e\transformed\jetified-tracing-1.2.0\res
+com.example.project_prak_pam.app-jetified-lifecycle-livedata-core-ktx-2.7.0-6 C:\Users\LENOVO\.gradle\caches\transforms-3\7a20648e68ca7f6ec3d548d24f44e96b\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.project_prak_pam.app-lifecycle-livedata-core-2.7.0-7 C:\Users\LENOVO\.gradle\caches\transforms-3\8302167cd8776857e088a0ea88d2c70e\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.project_prak_pam.app-fragment-1.7.1-8 C:\Users\LENOVO\.gradle\caches\transforms-3\91b8a7bf40b5d42df11bc5ef5f8976cb\transformed\fragment-1.7.1\res
+com.example.project_prak_pam.app-core-1.13.1-9 C:\Users\LENOVO\.gradle\caches\transforms-3\95ad1ce2f87494424dfa2454c1692a32\transformed\core-1.13.1\res
+com.example.project_prak_pam.app-jetified-savedstate-1.2.1-10 C:\Users\LENOVO\.gradle\caches\transforms-3\98171fff495ecb2934025489b2c3683a\transformed\jetified-savedstate-1.2.1\res
+com.example.project_prak_pam.app-jetified-activity-1.8.1-11 C:\Users\LENOVO\.gradle\caches\transforms-3\ae44becc693c59bef03b99367e5810ab\transformed\jetified-activity-1.8.1\res
+com.example.project_prak_pam.app-jetified-core-1.0.0-12 C:\Users\LENOVO\.gradle\caches\transforms-3\af0d01df07bb1aa23b826828e34dc4c3\transformed\jetified-core-1.0.0\res
+com.example.project_prak_pam.app-lifecycle-viewmodel-2.7.0-13 C:\Users\LENOVO\.gradle\caches\transforms-3\b0bf1654f8096b96d13a49fdc032b7fb\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.project_prak_pam.app-jetified-startup-runtime-1.1.1-14 C:\Users\LENOVO\.gradle\caches\transforms-3\b46aab3c0efa767e54425c804b834d61\transformed\jetified-startup-runtime-1.1.1\res
+com.example.project_prak_pam.app-jetified-window-java-1.2.0-15 C:\Users\LENOVO\.gradle\caches\transforms-3\b6d194d50d81bb072fb2415c4d143afc\transformed\jetified-window-java-1.2.0\res
+com.example.project_prak_pam.app-jetified-datastore-preferences-1.0.0-16 C:\Users\LENOVO\.gradle\caches\transforms-3\bb3c3e250fb0af27cc88b38c238cdf27\transformed\jetified-datastore-preferences-1.0.0\res
+com.example.project_prak_pam.app-core-runtime-2.2.0-17 C:\Users\LENOVO\.gradle\caches\transforms-3\bfb00b80ba05dd3014b086b58535ff37\transformed\core-runtime-2.2.0\res
+com.example.project_prak_pam.app-jetified-window-1.2.0-18 C:\Users\LENOVO\.gradle\caches\transforms-3\dc2e463a0738acfd544e34dd494bdc2c\transformed\jetified-window-1.2.0\res
+com.example.project_prak_pam.app-lifecycle-runtime-2.7.0-19 C:\Users\LENOVO\.gradle\caches\transforms-3\de68546b33516c3552feed8b5d1f593e\transformed\lifecycle-runtime-2.7.0\res
+com.example.project_prak_pam.app-jetified-profileinstaller-1.3.1-20 C:\Users\LENOVO\.gradle\caches\transforms-3\e2354d15876cc0a4a93c85695d946f13\transformed\jetified-profileinstaller-1.3.1\res
+com.example.project_prak_pam.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-21 C:\Users\LENOVO\.gradle\caches\transforms-3\e2a183d24c24497d826ac938fbda8c74\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.project_prak_pam.app-lifecycle-livedata-2.7.0-22 C:\Users\LENOVO\.gradle\caches\transforms-3\ef58ced683d2a53e37b60929eb6466e5\transformed\lifecycle-livedata-2.7.0\res
+com.example.project_prak_pam.app-packaged_res-23 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.14\android\build\intermediates\packaged_res\debug
+com.example.project_prak_pam.app-packaged_res-24 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.3.3\android\build\intermediates\packaged_res\debug
+com.example.project_prak_pam.app-packaged_res-25 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\sqlite3_flutter_libs-0.5.26\android\build\intermediates\packaged_res\debug
+com.example.project_prak_pam.app-packaged_res-26 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.14\android\build\intermediates\packaged_res\debug
+com.example.project_prak_pam.app-pngs-27 D:\SEMESTER 5\PRAK PEMRO MOBILE\project\project_prak_pam\android\app\build\generated\res\pngs\debug
+com.example.project_prak_pam.app-resValues-28 D:\SEMESTER 5\PRAK PEMRO MOBILE\project\project_prak_pam\android\app\build\generated\res\resValues\debug
+com.example.project_prak_pam.app-rs-29 D:\SEMESTER 5\PRAK PEMRO MOBILE\project\project_prak_pam\android\app\build\generated\res\rs\debug
+com.example.project_prak_pam.app-mergeDebugResources-30 D:\SEMESTER 5\PRAK PEMRO MOBILE\project\project_prak_pam\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.project_prak_pam.app-mergeDebugResources-31 D:\SEMESTER 5\PRAK PEMRO MOBILE\project\project_prak_pam\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.project_prak_pam.app-merged_res-32 D:\SEMESTER 5\PRAK PEMRO MOBILE\project\project_prak_pam\android\app\build\intermediates\merged_res\debug
+com.example.project_prak_pam.app-debug-33 D:\SEMESTER 5\PRAK PEMRO MOBILE\project\project_prak_pam\android\app\src\debug\res
+com.example.project_prak_pam.app-main-34 D:\SEMESTER 5\PRAK PEMRO MOBILE\project\project_prak_pam\android\app\src\main\res

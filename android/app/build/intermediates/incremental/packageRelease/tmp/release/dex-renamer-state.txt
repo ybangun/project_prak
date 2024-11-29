@@ -1,0 +1,4 @@
+#Fri Nov 29 08:12:50 WIB 2024
+base.0=D\:\\SEMESTER 5\\PRAK PEMRO MOBILE\\project\\project_prak_pam\\android\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
